@@ -48,6 +48,10 @@ header {
             width: 600px;
             margin: 40px auto;
 
+            @media only screen and (max-width: 768px) {
+                width: 100%;
+            }
+
             .nav-link {
                 color: grey;
                 text-decoration: none;
@@ -146,9 +150,16 @@ body {
             display: flex;
             flex-direction: column;
 
+            @media only screen and (max-width: 768px) {
+                width: 100%;
+            }
+
             .text-container {
                 width: 800px;
                 text-align: center;
+                @media only screen and (max-width: 768px) {
+                    width: 100%;
+                }
 
                 h2 {
                     font-size: 40px;
@@ -175,9 +186,17 @@ body {
             margin-top: 200px;
             display: flex;
 
+            @media only screen and (max-width: 768px) {
+               flex-direction: column; 
+            }
+
             .column {
                 width: 33.33%;
                 margin: auto 20px;
+                @media only screen and (max-width: 768px) {
+                    width: 100%;
+                    margin: 30px auto;
+                }
 
                 .imagery {
                     img {
@@ -226,6 +245,9 @@ body {
                 text-transform: uppercase;
                 font-size: 30px;
                 text-shadow: 4px 4px 3px rgba(0,0,0,0.1);
+                @media only screen and (max-width: 768px) {
+                    font-size: 10px;
+                }
             }
             .btn:hover {
                 // color: #ab2828;
@@ -250,6 +272,10 @@ body {
         display: flex;
         flex-direction: column;
 
+        @media only screen and (max-width: 768px) {
+            text-align: center;
+        }
+
         h2 {
             margin: auto;
         }
@@ -260,6 +286,7 @@ body {
                 font-size: 30px;
                 color: #ab2828;
                 margin: 0 10px;
+                
             }
 
             .grey {
@@ -325,9 +352,17 @@ body {
             display: flex;
             flex-wrap: wrap;
 
+            @media only screen and (max-width: 768px) {
+                flex-direction: column;
+            }
+
             img {
                 width: 23%;
                 padding: 1%;
+
+                @media only screen and (max-width: 768px) {
+                    width: 100%;
+                }
             }
         }
     }
@@ -352,6 +387,10 @@ body {
     display: flex;
     color: white;
 
+    @media only screen and (max-width: 768px) {
+        flex-direction: column;
+    }
+
     div {
         margin: auto;
     }
@@ -361,9 +400,15 @@ body {
             a {
                 color: white;
                 text-decoration: none; 
+                
             }
             a:hover {color: #ab2828;}
-            li {list-style: none;}
+            li {
+                list-style: none;
+                @media only screen and (max-width: 768px) {
+                    margin: 5px;
+                }
+            }
         }
     }
 

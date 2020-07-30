@@ -198,9 +198,9 @@ Template Name: Custom Homepage
 <br>
 <br>
 
-<div class="email-signup">
-    <?php echo do_shortcode( '[wd_hustle id="1" type="embedded"/]' ); ?>
-</div>
+<!-- <div class="email-signup">
+    <?php //echo do_shortcode( '[wd_hustle id="1" type="embedded"/]' ); ?>
+</div> -->
 
 
 
