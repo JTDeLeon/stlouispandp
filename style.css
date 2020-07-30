@@ -1,0 +1,257 @@
+/* 
+Theme Name: Jonathan Deleon Custom Theme
+Author: Jonathan Deleon
+Version: 1.0 
+Author URI: www.jonathantdeleon.com
+Description: This is the custom theme built by Jonathan Deleon. If need updating or upgrading new features, please contact me at jondeleon856@gmail.com. [Images Sourced From: https://wallpaperplay.com/board/video-camera-wallpapers]
+
+*/
+header .inner-container .logo-container {
+  display: flex;
+  flex-direction: column; }
+  header .inner-container .logo-container .logo-img {
+    margin: auto;
+    width: 250px; }
+  header .inner-container .logo-container .name-container {
+    margin: auto;
+    display: flex;
+    text-align: center; }
+    header .inner-container .logo-container .name-container .text-container {
+      margin: auto; }
+      header .inner-container .logo-container .name-container .text-container .name {
+        font-size: 50px;
+        color: #ab2828;
+        font-family: 'Great Vibes', Helvetica, sans-serif; }
+      header .inner-container .logo-container .name-container .text-container .titles {
+        text-transform: uppercase;
+        font-weight: 600; }
+
+header .inner-container .nav-container {
+  display: flex;
+  justify-content: space-evenly;
+  width: 600px;
+  margin: 40px auto; }
+  header .inner-container .nav-container .nav-link {
+    color: grey;
+    text-decoration: none; }
+  header .inner-container .nav-container .nav-link:hover {
+    color: #ab2828;
+    font-size: 16px;
+    font-weight: 700; }
+
+body {
+  color: #353436;
+  letter-spacing: 2px;
+  font-family: Lato, 'arial';
+  margin: 20px 0;
+  margin-bottom: 0; }
+
+.btn {
+  padding: 20px 30px;
+  border: 2px solid #ab2828;
+  color: #ab2828;
+  border-radius: 10px;
+  text-decoration: none; }
+
+.btn:hover {
+  background: #ab2828;
+  color: white; }
+
+.sec-001 {
+  background: url("/wp-content/themes/jonathanTheme/images/camera-lens.jpg");
+  background-attachment: fixed;
+  height: 1000px;
+  background-position: center;
+  background-size: cover; }
+  .sec-001 .inner-section {
+    display: flex;
+    flex-direction: column;
+    height: 100%; }
+    .sec-001 .inner-section .name-container {
+      display: flex;
+      text-align: center; }
+      .sec-001 .inner-section .name-container .text-container {
+        margin: auto; }
+        .sec-001 .inner-section .name-container .text-container .name {
+          font-size: 50px;
+          color: #ab2828; }
+    .sec-001 .inner-section .video-container {
+      margin: auto;
+      position: relative;
+      width: 70%;
+      height: 70%; }
+      .sec-001 .inner-section .video-container .main-video {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%; }
+
+.sec-002 {
+  display: flex;
+  padding-top: 200px;
+  padding-bottom: 50px; }
+  .sec-002 .inner-section {
+    margin: auto;
+    display: flex;
+    flex-direction: column; }
+    .sec-002 .inner-section .top-sec {
+      margin: auto;
+      display: flex;
+      flex-direction: column; }
+      .sec-002 .inner-section .top-sec .text-container {
+        width: 800px;
+        text-align: center; }
+        .sec-002 .inner-section .top-sec .text-container h2 {
+          font-size: 40px; }
+          .sec-002 .inner-section .top-sec .text-container h2 .color-accent {
+            color: #ab2828; }
+        .sec-002 .inner-section .top-sec .text-container p {
+          max-width: 650px;
+          margin: auto;
+          line-height: 2; }
+      .sec-002 .inner-section .top-sec .btn-container {
+        margin: auto;
+        margin-top: 100px; }
+    .sec-002 .inner-section .services-sec {
+      margin: 50px;
+      margin-top: 200px;
+      display: flex; }
+      .sec-002 .inner-section .services-sec .column {
+        width: 33.33%;
+        margin: auto 20px; }
+        .sec-002 .inner-section .services-sec .column .imagery img {
+          width: 100%; }
+        .sec-002 .inner-section .services-sec .column .imagetitle {
+          font-size: 20px;
+          color: #ab2828;
+          font-weight: 600; }
+        .sec-002 .inner-section .services-sec .column .description {
+          text-transform: none;
+          font-weight: 100;
+          letter-spacing: 1; }
+        .sec-002 .inner-section .services-sec .column .btn-container {
+          margin-top: 40px;
+          display: flex; }
+          .sec-002 .inner-section .services-sec .column .btn-container .btn {
+            margin: auto; }
+
+.sec-003 .inner-section {
+  background: url("/wp-content/themes/jonathanTheme/images/gallery/gallery (60).jpg");
+  background-attachment: fixed;
+  height: 800px;
+  background-position: center;
+  background-size: cover;
+  display: flex; }
+  .sec-003 .inner-section .button-container {
+    margin: auto; }
+    .sec-003 .inner-section .button-container .btn {
+      background: #ab2828;
+      color: white;
+      text-transform: uppercase;
+      font-size: 30px;
+      text-shadow: 4px 4px 3px rgba(0, 0, 0, 0.1); }
+    .sec-003 .inner-section .button-container .btn:hover {
+      color: white;
+      background: #c54d4d; }
+
+.sec-004 {
+  height: 800px;
+  display: flex; }
+  .sec-004 .inner-section {
+    background-attachment: fixed;
+    height: 50%;
+    margin: auto;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    flex-direction: column; }
+    .sec-004 .inner-section h2 {
+      margin: auto; }
+    .sec-004 .inner-section .icons-container {
+      margin: auto; }
+      .sec-004 .inner-section .icons-container a {
+        font-size: 30px;
+        color: #ab2828;
+        margin: 0 10px; }
+      .sec-004 .inner-section .icons-container .grey {
+        color: #353436; }
+
+.sec-005 .inner-section {
+  background: url("/wp-content/themes/jonathanTheme/images/gallery/gallery (33).jpg");
+  background-attachment: fixed;
+  height: 800px;
+  background-position: center;
+  background-size: cover;
+  display: flex; }
+  .sec-005 .inner-section .button-container {
+    margin: auto; }
+    .sec-005 .inner-section .button-container .btn {
+      background: #ab2828;
+      color: white;
+      text-transform: uppercase;
+      font-size: 30px;
+      text-shadow: 4px 4px 3px rgba(0, 0, 0, 0.1); }
+    .sec-005 .inner-section .button-container .btn:hover {
+      color: white;
+      background: #c54d4d; }
+
+.sec-006 .inner-section {
+  height: 800px;
+  display: flex; }
+  .sec-006 .inner-section .text-container {
+    margin: auto;
+    max-width: 600px;
+    text-align: center; }
+    .sec-006 .inner-section .text-container .btn-container {
+      margin-top: 70px; }
+
+.gallery .inner-section {
+  padding: 50px; }
+  .gallery .inner-section .gallery-container {
+    display: flex;
+    flex-wrap: wrap; }
+    .gallery .inner-section .gallery-container img {
+      width: 23%;
+      padding: 1%; }
+
+.email-signup, .contact-form {
+  width: 50%;
+  margin: auto; }
+
+.contact-form {
+  text-align: center; }
+  .contact-form .btn-container {
+    margin-top: 50px; }
+
+.footer {
+  height: 300px;
+  background-color: #353436;
+  display: flex;
+  color: white; }
+  .footer div {
+    margin: auto; }
+  .footer .left ul a {
+    color: white;
+    text-decoration: none; }
+  .footer .left ul a:hover {
+    color: #ab2828; }
+  .footer .left ul li {
+    list-style: none; }
+  .footer .right .icons-container {
+    margin: auto; }
+    .footer .right .icons-container a {
+      font-size: 30px;
+      color: white;
+      margin: 0 10px; }
+    .footer .right .icons-container a:hover {
+      color: #ab2828; }
+
+.credit {
+  background-color: #353436;
+  color: white;
+  font-size: 12px;
+  text-align: right;
+  padding: 10px; }
+  .credit a {
+    color: #ab2828; }
