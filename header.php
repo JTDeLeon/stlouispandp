@@ -5,6 +5,7 @@
 <body>
 <header>
     <div class="inner-container">
+        <a href="/">
         <div class="logo-container">
             <!-- <img class="logo-img" src="<?php echo get_template_directory_uri(); ?>/images/logo.jpg" alt=""> -->
             <div class="name-container">
@@ -14,10 +15,11 @@
                 </div>
             </div>
         </div>
+        </a>
         <nav class="nav-container">
-            <a class="nav-link" href="#">Services</a>
-            <a class="nav-link" href="/about-me">About Me</a>
-            <a class="nav-link" href="#">Contact</a>
+            <a class="nav-link" href="/#services">Services</a>
+            <a class="nav-link" href="#about">About Me</a>
+            <a class="nav-link" href="/#contact">Contact</a>
         </nav>
     </div>
 </header>

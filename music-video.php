@@ -1,11 +1,11 @@
 <?php 
 /* 
-Template Name: Custom About Page
+Template Name: Music Videos Page
 */ ?>
 
 <?php get_header(); ?>
 
-<h1>About Page</h1>
+<h1>Music Page</h1>
 
 <div id="contact" class="contact-form">
     <h2>Have questions? Get in touch with me today!</h2>

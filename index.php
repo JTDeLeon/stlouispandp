@@ -25,7 +25,7 @@ Template Name: Custom Homepage
             </div>
         </div>
 
-        <div class="services-sec">
+        <div id="services" class="services-sec">
             <div class="column">
                 <div class="imagery">
                     <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/OuQ0iSNGwgU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
@@ -38,7 +38,7 @@ Template Name: Custom Homepage
 
                 Chocolate cake danish soufflé muffin liquorice chocolate cake chupa chups cotton candy. Cupcake sesame snaps cookie gingerbread caramels gummi bears croissant halvah tootsie roll. Pastry gummies marzipan candy cheesecake chocolate.</p>
                 <div class="btn-container">
-                    <a class="btn" href="#">Learn More</a>
+                    <a class="btn" href="/music-videos/">Learn More</a>
                 </div>
             </div>
             <div class="column">
@@ -53,7 +53,7 @@ Template Name: Custom Homepage
 
                 Chocolate cake danish soufflé muffin liquorice chocolate cake chupa chups cotton candy. Cupcake sesame snaps cookie gingerbread caramels gummi bears croissant halvah tootsie roll. Pastry gummies marzipan candy cheesecake chocolate.</p>
                 <div class="btn-container">
-                    <a class="btn" href="#">Learn More</a>
+                    <a class="btn" href="/commercial-films/">Learn More</a>
                 </div>
             </div>
             <div class="column">
@@ -68,7 +68,7 @@ Template Name: Custom Homepage
 
                 Chocolate cake danish soufflé muffin liquorice chocolate cake chupa chups cotton candy. Cupcake sesame snaps cookie gingerbread caramels gummi bears croissant halvah tootsie roll. Pastry gummies marzipan candy cheesecake chocolate.</p>
                 <div class="btn-container">
-                    <a class="btn" href="#">Learn More</a>
+                    <a class="btn" href="/social-media-consult/">Learn More</a>
                 </div>
             </div>
         </div>
@@ -98,10 +98,10 @@ Template Name: Custom Homepage
     </div>
 </section>
 
-<section class="sec-005">
+<section id="about" class="sec-005">
     <div class="inner-section">
         <div class="button-container">
-            <a href="#" class="btn">My Story</a>
+            <a href="/about/" class="btn">My Story</a>
         </div>
     </div>
 </section>
@@ -187,7 +187,7 @@ Template Name: Custom Homepage
     </div>
 </section>
 
-<div class="contact-form">
+<div id="contact" class="contact-form">
     <h2>Have questions? Get in touch with me today!</h2>
     <p>alejandromunozrua@gmail.com</p>
     <div class="btn-container">

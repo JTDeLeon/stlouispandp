@@ -6,6 +6,10 @@ Author URI: www.jonathantdeleon.com
 Description: This is the custom theme built by Jonathan Deleon. If need updating or upgrading new features, please contact me at jondeleon856@gmail.com. [Images Sourced From: https://wallpaperplay.com/board/video-camera-wallpapers]
 
 */
+header .inner-container a {
+  text-decoration: none;
+  color: #353436; }
+
 header .inner-container .logo-container {
   display: flex;
   flex-direction: column; }

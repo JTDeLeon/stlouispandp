@@ -1,11 +1,10 @@
 <?php 
 /* 
-Template Name: Custom About Page
+Template Name: Social Media Consultation Page
 */ ?>
-
 <?php get_header(); ?>
 
-<h1>About Page</h1>
+<h1>Social Media Page</h1>
 
 <div id="contact" class="contact-form">
     <h2>Have questions? Get in touch with me today!</h2>

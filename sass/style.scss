@@ -10,6 +10,10 @@ Description: This is the custom theme built by Jonathan Deleon. If need updating
 // Header Styles
 header {
     .inner-container {
+        a {
+            text-decoration: none;
+            color: #353436;
+        }
         .logo-container{ 
             display: flex;
             flex-direction: column;
