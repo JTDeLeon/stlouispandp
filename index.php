@@ -7,7 +7,16 @@ Template Name: Custom Homepage
 
 <section class="sec-001">
     <div class="inner-section">
-        <div class="video-container">
+        <div class="text-container">
+        <h1>Bring Your Foot Traffic Online!</h1>
+        <p>Gone are the days of the yellow pages.  Technology has evolved leaving paper resources in the dust.  Customers are turning turn to Google regularly and frequently to find business hours, locations, and product availability.</p>
+        <p>To survive in today’s competitive marketplace online, the mom-and-pop store owner needs to evolve to be a marketing master, a skilled salesperson, and a social media strategist.</p>
+        <p>Are you dissatisfied with your current website or do you not currently have a website?  </p>
+        <p>We understand that transitioning over to an online business can be overwhelming, but it doesn’t have to be.</p>
+        <p>We are a St. Louis-based Marketing Agency specializing in bringing the mission and vision of small businesses online. </p>
+ 
+
+
         </div>
     </div>
 </section>

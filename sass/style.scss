@@ -7,8 +7,11 @@ Description: This is the custom theme built by Jonathan Deleon. If need updating
 
 */
 
+@import url('https://fonts.googleapis.com/css2?family=Rowdies:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300;400;700&family=Rowdies:wght@300;400;700&display=swap');
 // Header Styles
 header {
+    background: #353436d9;
     .inner-container {
         a {
             text-decoration: none;
@@ -22,7 +25,7 @@ header {
                 width: 250px;
             }
             .name-container {
-                margin: auto;
+                margin: 0px auto;
                 display: flex;
                 text-align: center;
                 // text-shadow: 4px 4px 3px rgba(0,0,0,0.1);
@@ -32,8 +35,9 @@ header {
     
                     .name {
                         font-size: 50px;
-                        color: #ab2828;
-                        font-family: 'Great Vibes', Helvetica, sans-serif;
+                        color: #0f8aa0;
+                        margin-bottom: 0;
+                        // font-family: 'Great Vibes', Helvetica, sans-serif;
                         // text-shadow: 4px 4px 3px rgba(0,0,0,0.1); 
                     }
     
@@ -41,6 +45,13 @@ header {
                         // font-style: italic;
                         text-transform: uppercase;
                         font-weight: 600;
+                        color: aqua;
+                        margin-top: 0;
+                        font-size: 12px;
+                        text-align: right;
+                        @media only screen and (max-width: 768px) {
+                            text-align: center;
+                        }
                     }
                 }
             }
@@ -48,22 +59,27 @@ header {
 
         .nav-container {
             display: flex;
-            justify-content: space-evenly;
-            width: 600px;
-            margin: 40px auto;
+            justify-content: space-between;
+            width: 800px;
+            margin: 0px auto;    
+            padding: 20px;
+            
 
             @media only screen and (max-width: 768px) {
                 width: 100%;
+                flex-direction: column;
             }
 
             .nav-link {
-                color: grey;
+                color: white;
                 text-decoration: none;
+                font-size: 22px;
+                text-transform: uppercase;
             }
             .nav-link:hover {
-                color: #ab2828;
-                font-size: 16px;
-                font-weight: 700;
+                color: #0f8aa0;
+                // font-size: 25px;
+                // font-weight: 700;
             }
         }
     }
@@ -73,9 +89,14 @@ header {
 body {
     color: #353436;
     letter-spacing: 2px;
-    font-family: Lato, 'arial';
-    margin: 20px 0;
+    // font-family: 'Rowdies', cursive;
+    font-family: 'Noto Sans JP', sans-serif;
+    margin: 0;
     margin-bottom: 0;
+}
+
+p {
+    font-size: 24px;
 }
 
 .nopad {
@@ -84,19 +105,19 @@ body {
 
 .btn {
     padding: 20px 30px;
-    border: 2px solid #ab2828;
-    color: #ab2828;
+    border: 2px solid #0f8aa0;
+    color: #0f8aa0;
     border-radius: 10px;
     text-decoration: none;
 }
 .btn:hover {
-    background: #ab2828;
+    background: #0f8aa0;
     color: white;
 }
 
 // Section Styles
 .sec-001 {
-    background: url('/wp-content/themes/jonathanTheme/images/camera-lens.jpg');
+    background: url('/wp-content/themes/jonathanTheme/images/stlouis.jpg');
     background-attachment: fixed;
     // background: black;
     height: 1000px;
@@ -116,7 +137,7 @@ body {
 
                 .name {
                     font-size: 50px;
-                    color: #ab2828;
+                    color: #0f8aa0;
                 }
 
                 .titles {
@@ -139,6 +160,23 @@ body {
                 left: 0;
                 width: 100%;
                 height: 100%;
+            }
+        }
+
+        .text-container {
+            margin: auto;
+            width: 70%;
+            height: 70%;
+            background-color: #727172b3;
+            color: white;
+            padding: 20px;
+            display: flex;
+            justify-content: center;
+            // align-items: center;
+            flex-direction: column;
+            text-align: center;
+            h1 {
+                font-size: 45px;
             }
         }
     }
@@ -172,7 +210,7 @@ body {
                 h2 {
                     font-size: 40px;
                     .color-accent {
-                        color: #ab2828;
+                        color: #0f8aa0;
                     }
                 }
 
@@ -214,7 +252,7 @@ body {
                 }
                 .imagetitle {
                     font-size: 20px;
-                    color: #ab2828;
+                    color: #0f8aa0;
                     font-weight: 600;
                 }
                 .description {
@@ -250,7 +288,7 @@ body {
             margin: auto;
 
             .btn {
-                background: #ab2828;
+                background: #0f8aa0;
                 color: white;
                 text-transform: uppercase;
                 font-size: 30px;
@@ -260,11 +298,11 @@ body {
                 }
             }
             .btn:hover {
-                // color: #ab2828;
+                // color: #0f8aa0;
                 // background: white;
 
                 color: white;
-                background: #c54d4d;
+                background: #0f8aa0;
             }
         }
     }
@@ -294,7 +332,7 @@ body {
 
             a {
                 font-size: 30px;
-                color: #ab2828;
+                color: #0f8aa0;
                 margin: 0 10px;
                 
             }
@@ -320,18 +358,18 @@ body {
             margin: auto;
 
             .btn {
-                background: #ab2828;
+                background: #0f8aa0;
                 color: white;
                 text-transform: uppercase;
                 font-size: 30px;
                 text-shadow: 4px 4px 3px rgba(0,0,0,0.1);
             }
             .btn:hover {
-                // color: #ab2828;
+                // color: #0f8aa0;
                 // background: white;
 
                 color: white;
-                background: #c54d4d;
+                background: #0f8aa0;
             }
         }
     }
@@ -416,7 +454,7 @@ body {
                 text-decoration: none; 
                 
             }
-            a:hover {color: #ab2828;}
+            a:hover {color: #0f8aa0;}
             li {
                 list-style: none;
                 @media only screen and (max-width: 768px) {
@@ -435,7 +473,7 @@ body {
                 color: white;
                 margin: 0 10px;
             }
-            a:hover {color: #ab2828;}
+            a:hover {color: #0f8aa0;}
         }
     }
 }
@@ -447,7 +485,7 @@ body {
     text-align: right;
     padding: 10px;
     a {
-        color: #ab2828;
+        color: #0f8aa0;
     }
 }
 
