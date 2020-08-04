@@ -1,11 +1,11 @@
 <footer class="footer">
     <div class="left">
         <ul>
-            <a href="/"><li>Home</li></a>
-            <a href="/about"><li>About Me</li></a>
-            <a href="/music-videos"><li>Music Videos</li></a>
+            <a href="https://pixelandpapers.com/"><li>Pixel And Papers</li></a>
+            <a href="https://pixelandpapers.com/blog"><li>Blog</li></a>
+            <!-- <a href="/music-videos"><li>Music Videos</li></a>
             <a href="/commercial-films"><li>Commercial Services</li></a>
-            <a href="/social-media-consult"><li>Social Media Consultation</li></a>
+            <a href="/social-media-consult"><li>Social Media Consultation</li></a> -->
         </ul>
     </div>
     <div class="right">
@@ -14,8 +14,8 @@
             <a class="" href=""><i class="fa fa-twitter" aria-hidden="true"></i></a>
             <a class="" href=""><i class="fa fa-linkedin" aria-hidden="true"></i></a>
             <a class="" href=""><i class="fa fa-instagram" aria-hidden="true"></i></a>
-            <a href=""><i class="fa fa-youtube-play" aria-hidden="true"></i></a>
-            <a href=""><i class="fa fa-imdb" aria-hidden="true"></i></a>
+            <!-- <a href=""><i class="fa fa-youtube-play" aria-hidden="true"></i></a>
+            <a href=""><i class="fa fa-imdb" aria-hidden="true"></i></a> -->
             <a href=""><i class="fa fa-envelope-o" aria-hidden="true"></i></a>
         </div>
     </div>
