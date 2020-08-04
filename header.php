@@ -18,7 +18,7 @@
         </a>
         <nav class="nav-container">
             <a class="nav-link" href="/#services">Services</a>
-            <a class="nav-link" href="#about">About Me</a>
+            <a class="nav-link" href="/about">About Me</a>
             <a class="nav-link" href="/#contact">Contact</a>
         </nav>
     </div>

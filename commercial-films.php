@@ -5,7 +5,20 @@ Template Name: Commercial Films
 
 <?php get_header(); ?>
 
-<h1>Commercial Films Page</h1>
+<section class="sec-002 commercial-sec nopad">
+    <div class="inner-section">
+        <div class="top-sec">
+            <div class="img-contain">
+                <img src="/wp-content/themes/jonathanTheme/images/unsplash-blackcam.jpg" alt="">
+            </div>
+            <div class="text-container">
+                <h2>New Videos<br/><span class="color-accent">Coming Soon!</span></h2>
+                <!-- <p>I help creators and artists increase their public image through providing high-quality productions, social media content, and a successful mindset to help them reach their dreams</p> -->
+            </div>
+        </div>
+
+    </div>
+</section>
 
 <div id="contact" class="contact-form">
     <h2>Have questions? Get in touch with me today!</h2>

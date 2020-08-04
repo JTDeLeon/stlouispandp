@@ -32,11 +32,7 @@ Template Name: Custom Homepage
                     <img src="/wp-content/themes/jonathanTheme/images/gallery/gallery (55).JPG" alt="">
                 </div>
                 <p class="imagetitle">Music Videos</p>
-                <p class="description">Sugar plum sweet gummies pie soufflé chocolate cake. Powder tootsie roll marshmallow bear claw cheesecake caramels biscuit gummies. Cotton candy apple pie candy canes chocolate ice cream chocolate cake biscuit sweet roll.
-
-                Candy tootsie roll bonbon sweet lemon drops. Cake halvah icing gummies cheesecake muffin tootsie roll. Soufflé topping candy caramels sugar plum cookie.
-
-                Chocolate cake danish soufflé muffin liquorice chocolate cake chupa chups cotton candy. Cupcake sesame snaps cookie gingerbread caramels gummi bears croissant halvah tootsie roll. Pastry gummies marzipan candy cheesecake chocolate.</p>
+                <p class="description">Directing and producing music videos is one of my biggest passions as well as my specialty. I am able to produce videos with both creative concepts and performances, combining the artist’s vision and style with my own perspectives. I have worked with local and international artists on both large and small-scale productions in genres such as reggaeton, pop, and electronic music. </p>
                 <div class="btn-container">
                     <a class="btn" href="/music-videos/">Learn More</a>
                 </div>
@@ -47,11 +43,7 @@ Template Name: Custom Homepage
                     <img src="/wp-content/themes/jonathanTheme/images/gallery/gallery (52).JPG" alt="">
                 </div>
                 <p class="imagetitle">Commercial Films</p>
-                <p class="description">Sugar plum sweet gummies pie soufflé chocolate cake. Powder tootsie roll marshmallow bear claw cheesecake caramels biscuit gummies. Cotton candy apple pie candy canes chocolate ice cream chocolate cake biscuit sweet roll.
-
-                Candy tootsie roll bonbon sweet lemon drops. Cake halvah icing gummies cheesecake muffin tootsie roll. Soufflé topping candy caramels sugar plum cookie.
-
-                Chocolate cake danish soufflé muffin liquorice chocolate cake chupa chups cotton candy. Cupcake sesame snaps cookie gingerbread caramels gummi bears croissant halvah tootsie roll. Pastry gummies marzipan candy cheesecake chocolate.</p>
+                <p class="description">Through my experience in production, I am able to create video content for individual advertising campaigns. I take the time to understand the product and audience in order to create the appropriate corresponding deliverable, through either commercials, Facebook advertising, or Instagram advertising. </p>
                 <div class="btn-container">
                     <a class="btn" href="/commercial-films/">Learn More</a>
                 </div>
@@ -62,11 +54,7 @@ Template Name: Custom Homepage
                     <img src="/wp-content/themes/jonathanTheme/images/socialmedia-cam.jpg" alt="">
                 </div>
                 <p class="imagetitle">Social Media Consultation</p>
-                <p class="description">Sugar plum sweet gummies pie soufflé chocolate cake. Powder tootsie roll marshmallow bear claw cheesecake caramels biscuit gummies. Cotton candy apple pie candy canes chocolate ice cream chocolate cake biscuit sweet roll.
-
-                Candy tootsie roll bonbon sweet lemon drops. Cake halvah icing gummies cheesecake muffin tootsie roll. Soufflé topping candy caramels sugar plum cookie.
-
-                Chocolate cake danish soufflé muffin liquorice chocolate cake chupa chups cotton candy. Cupcake sesame snaps cookie gingerbread caramels gummi bears croissant halvah tootsie roll. Pastry gummies marzipan candy cheesecake chocolate.</p>
+                <p class="description">Over time, I have organically grown my Instagram account to 8.000+ followers and successfully created a supportive and positive online community. Now, I want to help others achieve the same. Through my social media consultations, I will work with each client, understanding their individual needs, market, and creativity, and help them develop a social media strategy to meet their desired results. We will meet for two hours per week to discuss the plans from beginning to end. I aim to teach others how to achieve sustainable growth and success on social media, ultimately leading to increased exposure and long-term career development. </p>
                 <div class="btn-container">
                     <a class="btn" href="/social-media-consult/">Learn More</a>
                 </div>
@@ -87,13 +75,13 @@ Template Name: Custom Homepage
     <div class="inner-section">
         <h2>Follow Me On Social Media For Updates & News</h2>
         <div class="icons-container">
-            <a class="grey" href=""><i class="fa fa-facebook" aria-hidden="true"></i></a>
-            <a class="grey" href=""><i class="fa fa-twitter" aria-hidden="true"></i></a>
-            <a class="grey" href=""><i class="fa fa-linkedin" aria-hidden="true"></i></a>
-            <a class="grey" href=""><i class="fa fa-instagram" aria-hidden="true"></i></a>
-            <a href=""><i class="fa fa-youtube-play" aria-hidden="true"></i></a>
-            <a href=""><i class="fa fa-imdb" aria-hidden="true"></i></a>
-            <a href=""><i class="fa fa-envelope-o" aria-hidden="true"></i></a>
+            <a class="grey" href="https://web.facebook.com/alejandro.munoz.94"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+            <a class="grey" href="https://twitter.com/alejand36464996"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+            <a class="grey" href="https://www.linkedin.com/in/alejandro-mu%C3%B1oz-r%C3%BAa-bb10021b4/"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+            <a class="grey" href="https://www.instagram.com/alejo_visualproducer/"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+            <a href="https://www.youtube.com/channel/UC6cPlzXLUV6JRnCiN3GDGBw"><i class="fa fa-youtube-play" aria-hidden="true"></i></a>
+            <a href="https://www.imdb.com/user/ur122420277/?ref_=nv_usr_prof_2"><i class="fa fa-imdb" aria-hidden="true"></i></a>
+            <a href="mailto:alejandromunozrua@gmail.com"><i class="fa fa-envelope-o" aria-hidden="true"></i></a>
         </div>
     </div>
 </section>
@@ -111,10 +99,11 @@ Template Name: Custom Homepage
     <div class="inner-section">
         <div class="text-container">
             <h2>My Shop</h2>
-            <p>Sugar plum sweet gummies pie soufflé chocolate cake. Powder tootsie roll marshmallow bear claw cheesecake caramels biscuit gummies. Cotton candy apple pie candy canes chocolate ice cream chocolate cake biscuit sweet roll.</p>
-            <p>Candy tootsie roll bonbon sweet lemon drops. Cake halvah icing gummies cheesecake muffin tootsie roll. Soufflé topping candy caramels sugar plum cookie.</p>
+            <p>Enter your email to receive updates on give-aways, announcements, and new products, all coming
+soon.</p>
             <div class="btn-container">
-                <a href="#" class="btn">Shop Now</a>
+                <!-- <a href="#" class="btn">Shop Now</a> -->
+                <a href="#" class="btn coming-soon">Shop Coming Soon</a>
             </div>
         </div>
     </div>
