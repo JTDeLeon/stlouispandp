@@ -20,7 +20,7 @@ Template Name: Custom Homepage
                 <p>I help creators and artists increase their public image through providing high-quality productions, social media content, and a successful mindset to help them reach their dreams</p>
             </div>
             <div class="btn-container">
-                <a class="btn" href="https://calendly.com/alejandromunozrua">Book Now</a>
+                <a class="btn" href="">Book Now</a>
             </div>
         </div>
 
@@ -65,7 +65,7 @@ Template Name: Custom Homepage
 <section id="book" class="sec-003">
     <div class="inner-section">
         <div class="button-container">
-            <a href="https://calendly.com/alejandromunozrua" class="btn">Schedule a Free Consultation With Me</a>
+            <a href="" class="btn">Schedule a Free Consultation With Me</a>
         </div>
     </div>
 </section>
